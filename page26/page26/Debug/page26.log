@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\고은\desktop\algorithm\page26\page26\소스.cpp(11): warning C4091: 'typedef ': 변수를 선언하지 않으면 'queue' 왼쪽은 무시됩니다.
+  page26.vcxproj -> C:\Users\고은\Desktop\algorithm\page26\Debug\page26.exe
+  page26.vcxproj -> C:\Users\고은\Desktop\algorithm\page26\Debug\page26.pdb (Partial PDB)
