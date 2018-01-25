@@ -1,0 +1,5 @@
+﻿  92.cpp
+c:\users\고은\documents\visual studio 2017\projects\page92\page92\92.cpp(18): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\고은\documents\visual studio 2017\projects\page92\page92\92.cpp(18): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  page92.vcxproj -> C:\Users\고은\Documents\Visual Studio 2017\Projects\page92\Debug\page92.exe
+  page92.vcxproj -> C:\Users\고은\Documents\Visual Studio 2017\Projects\page92\Debug\page92.pdb (Partial PDB)
